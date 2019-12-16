@@ -23,6 +23,7 @@ Every benchmark test is done 4 times, with the first result ignored (to serve as
 - [excel file](./results-table/GCP e2_n1_n2-standard-4 benchmark.xlsx)
 - [benchmark table](./results-table/1 - Benchmark.html)
 - [price table](./results-table/2 - Price Table.html)
+- [workload suggestions](./results-table/3 - Workload Suggestions.html)
 
 ---
 
