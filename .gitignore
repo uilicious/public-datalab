@@ -1,0 +1,13 @@
+#
+# exclude common hidden file types
+#
+*.swp
+*._*
+*.unison*
+.vscode
+
+#
+# Exclude NPM and build folders
+#
+_book/*
+node_modules/*
